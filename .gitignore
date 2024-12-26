@@ -1,2 +1,5 @@
-# Ignore dataasets
+# Ignore datasets
 *.pkl
+
+# Ignore notebooks
+*.ipynb
